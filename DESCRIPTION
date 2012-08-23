@@ -2,7 +2,7 @@ Package: superbiclust
 Type: Package
 Title: Generating Robust Biclusters from a Bicluster Set (Ensemble
         Biclustering)
-Version: 0.1
+Version: 1.1
 Date: 2012-08-23
 Author: Tatsiana Khamiakova
 Maintainer: Tatsiana Khamiakova <tatsiana.khamiakova@uhasselt.be>
@@ -21,7 +21,10 @@ Description: Biclusters are submatrices in the data matrix which
         none or low overlap.
 License: GPL (>= 2)
 LazyLoad: yes
-Packaged: 2013-04-23 08:40:09 UTC; lucp2149
+Packaged: 2014-11-27 15:45:10 UTC; rforge
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-04-23 12:08:10
+Date/Publication: 2014-11-27 23:20:02
+Repository/R-Forge/Project: superbiclust
+Repository/R-Forge/Revision: 14
+Repository/R-Forge/DateTimeStamp: 2014-11-27 15:39:29
