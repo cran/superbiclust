@@ -1,0 +1,10 @@
+import(methods, Matrix)
+import(biclust,fabia)
+
+export(similarity)
+exportClasses(BiclustSet)
+exportMethods(BiclustSet)
+
+exportPattern("^[^\\.]")
+
+
