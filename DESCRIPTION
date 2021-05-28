@@ -2,12 +2,12 @@ Package: superbiclust
 Type: Package
 Title: Generating Robust Biclusters from a Bicluster Set (Ensemble
         Biclustering)
-Version: 1.1
-Date: 2012-08-23
+Version: 1.2
+Date: 2021-05-26
 Author: Tatsiana Khamiakova
-Maintainer: Tatsiana Khamiakova <tatsiana.khamiakova@uhasselt.be>
+Maintainer: Tatsiana Khamiakova <t.tavita@gmail.com>
 Depends: biclust, fabia
-Imports: methods, Matrix
+Imports: methods, Matrix, graphics, stats
 Description: Biclusters are submatrices in the data matrix which
         satisfy certain conditions of homogeneity. Package contains
         functions for generating robust biclusters with respect to the
@@ -21,10 +21,10 @@ Description: Biclusters are submatrices in the data matrix which
         none or low overlap.
 License: GPL (>= 2)
 LazyLoad: yes
-Packaged: 2014-11-27 15:45:10 UTC; rforge
+Packaged: 2021-05-27 07:22:06 UTC; tkhamiak
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-11-27 23:20:02
+Date/Publication: 2021-05-28 06:00:02 UTC
 Repository/R-Forge/Project: superbiclust
 Repository/R-Forge/Revision: 14
 Repository/R-Forge/DateTimeStamp: 2014-11-27 15:39:29

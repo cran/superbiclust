@@ -30,4 +30,5 @@ Tatsiana Khamiakova <tatsiana.khamiakova@uhasselt.be>
 Madeira and Oliveira (2004) Biclustering algorithms for biological data analysis: a survey. IEEE/ACM Trans Comput Biol Bioinform. 2004 Jan-Mar;1(1):24-45.
 Shi et al. (2010) A bi-ordering approach to linking gene expression	with clinical annotations in gastric cancer. BMC Bioinformatics. 11. pages 477. 
 }
-\keyword{biclustering, similarity}
+\concept{biclustering} 
+\concept{similarity} 

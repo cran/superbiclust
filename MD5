@@ -1,5 +1,5 @@
-e4792aa9870061660ebfe53736e6eb24 *DESCRIPTION
-fb493251655a7b5c4854901e76d70f78 *NAMESPACE
+da3bff1af4bdc6e17a2d36da673e01b7 *DESCRIPTION
+259677fa5263f0d5d899d085aaaac851 *NAMESPACE
 ed0fa9e452b78d6d361cd47427d7e253 *R/HCLtree.R
 4421a8389baf0b154870a94866f3eb05 *R/biclustData-class.R
 d46316b4e124384427e75c4911b2d900 *R/getStats.R
@@ -8,7 +8,7 @@ c3119638c8e4142426ef0060519e26c7 *R/similarity.R
 4e9a7dd3b9b42e8ab04331459008dd6e *man/BiclustSet-class.Rd
 2107104b6b7d29f02c5df619bac615c0 *man/BiclustSet-methods.Rd
 66d89c340c70332347afc9eade63980b *man/HCLtree.Rd
-346c5a1b8feaced0076dbaa2457c97af *man/biclustSim-package.Rd
+5345a28af2e3ca9b658bf4446259c129 *man/biclustSim-package.Rd
 0b2d514e44353f259cf8074a18144471 *man/combine.Rd
 5deb0112bb87aa7335253401e7f22d09 *man/getStats.Rd
 76b77e936de909f90a61c277dcf053c7 *man/jaccardMat.Rd
